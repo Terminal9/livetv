@@ -13,7 +13,7 @@ http://192.168.1.152:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
 http://192.168.1.152:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
 #EXTINF:-1, METV
 http://192.168.1.152:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
-#EXTINF:-1, tvg-logo"https://cdns.abclocal.go.com/assets/news/wls/images/logos/default_800x450.jpg"ABC 7 HD
+#EXTINF:-1, ABC 7 HD
 http://192.168.1.152:5004/auto/v7.1/live/lescobar/lescobar/824.ts
 #EXTINF:-1, CBS 9
 http://192.168.1.152:5004/auto/v9.1/live/lescobar/lescobar/8609.ts
