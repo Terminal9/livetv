@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1,USA: ABC 2 HD 
+#EXTINF:-1, ABC 2 HD 
 http://192.168.1.152:5004/auto/v2.1/live/lescobar/lescobar/8614.ts
-#EXTINF:-1,USA: LAFF
+#EXTINF:-1, LAFF
 http://192.168.1.152:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
-#EXTINF:-1,USA: BOUNCE
+#EXTINF:-1, BOUNCE
 http://192.168.1.152:5004/auto/v2.3/live/lescobar/lescobar/823.ts
-#EXTINF:-1,USA: ESCAPE
+#EXTINF:-1, ESCAPE
 http://192.168.1.152:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
-#EXTINF:-1,USA: NBC 4 HD
+#EXTINF:-1, NBC 4 HD
 http://192.168.1.152:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
-#EXTINF:-1,USA: FOX 5 HD
+#EXTINF:-1, FOX 5 DC 
 http://192.168.1.152:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
-#EXTINF:-1,USA: METV
+#EXTINF:-1, METV
 http://192.168.1.152:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
-#EXTINF:-1,USA: ABC 7 HD
+#EXTINF: https://cdns.abclocal.go.com/assets/news/wls/images/logos/default_800x450.jpg-1, ABC 7 HD
 http://192.168.1.152:5004/auto/v7.1/live/lescobar/lescobar/824.ts
-#EXTINF:-1,USA: CBS 9
+#EXTINF:-1, CBS 9
 http://192.168.1.152:5004/auto/v9.1/live/lescobar/lescobar/8609.ts
-#EXTINF:-1,USA: WB50 BALTIMORE
+#EXTINF:-1, WB50 BALTIMORE
 http://192.168.1.152:5004/auto/v50.1/live/lescobar/lescobar/8613.ts
-#EXTINF:-1,USA: FOX 5 PLUS
+#EXTINF:-1, FOX 5 PLUS
 http://192.168.1.152:5004/auto/v20.1/live/lescobar/lescobar/8619.ts
-#EXTINF:-1,USA: PBS KIDS
+#EXTINF:-1, PBS KIDS
 http://192.168.1.152:5004/auto/v26.3/live/lescobar/lescobar/8617.ts
-#EXTINF:-1,USA: CW BALTIMORE
+#EXTINF:-1, CW BALTIMORE
 http://192.168.1.152:5004/auto/v54.1/live/lescobar/lescobar/8618.ts
-#EXTINF:-1,USA: TELEMONDO HD
+#EXTINF:-1, TELEMONDO HD
 http://192.168.1.152:5004/auto/v44.1/live/lescobar/lescobar/8602.ts
-#EXTINF:-1,USA: CHARGE! HD
+#EXTINF:-1, CHARGE! HD
 http://192.168.1.152:5004/auto/v54.1/live/lescobar/lescobar/8594.ts
-#EXTINF:-1,USA: ION 
+#EXTINF:-1, ION 
 http://192.168.1.152:5004/auto/v66.1/live/lescobar/lescobar/817.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
