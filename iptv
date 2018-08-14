@@ -35,17 +35,13 @@ http://192.168.1.152:5004/auto/v54.1/live/lescobar/lescobar/8594.ts
 http://192.168.1.152:5004/auto/v66.1/live/lescobar/lescobar/817.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1412/1*8TFZ5znjPDeV9A82CC7njg.png" group-title="USA",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
 http://video.oct.dc.gov/out/u/96_4.m3u8
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="USA",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
