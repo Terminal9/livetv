@@ -2,7 +2,7 @@
 #EXTINF:-1, ABC 10 HD
 http://showsat.hopto.me:9000/live/123456789/1234/17620.ts
 #EXTINF:-1, ABC 2 HD
-http://192.168.1.152:5004/auto/v2.1/live/lescobar/lescobar/8614.ts
+http://192.168.1.152:5004/auto/v2.1/live/123456789/1234/17619.ts
 #EXTINF:-1, LAFF
 http://192.168.1.152:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
 #EXTINF:-1, BOUNCE
