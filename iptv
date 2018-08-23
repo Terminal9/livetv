@@ -3,7 +3,7 @@
 http://192.168.1.206:5004/auto/v2.1/live/lescobar/lescobar/17619.ts
 #EXTINF:-1, LAFF
 http://192.168.1.206:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE 
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE TV
 http://192.168.1.206:5004/auto/v14.4/live/lescobar/lescobar/823.ts
 #EXTINF:-1, ESCAPE
 http://192.168.1.206:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
