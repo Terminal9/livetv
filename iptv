@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ABC 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.206:5004/auto/v2.1/live/lescobar/lescobar/17619.ts
 #EXTINF:-1, LAFF
 http://192.168.1.206:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
@@ -7,19 +7,19 @@ http://192.168.1.206:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
 http://192.168.1.206:5004/auto/v2.3/live/lescobar/lescobar/823.ts
 #EXTINF:-1, ESCAPE
 http://192.168.1.206:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
-#EXTINF:-1, NBC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
 http://192.168.1.206:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
 http://192.168.1.206:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
-#EXTINF:-1, METV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
 http://192.168.1.206:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
-#EXTINF:-1, ABC 7 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.206:5004/auto/v7.1/live/lescobar/lescobar/824.ts
-#EXTINF:-1, CBS 9
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
 http://192.168.1.206:5004/auto/v9.1/live/lescobar/lescobar/8609.ts
-#EXTINF:-1, WB50 BALTIMORE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956547306630742016/wzqdScj6_200x200.jpg",WB50 BALTIMORE
 http://192.168.1.206:5004/auto/v50.1/live/lescobar/lescobar/8613.ts
-#EXTINF:-1, FOX 5 PLUS
+#EXTINF:-1 tvg-logo="https://media.fox5dc.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",FOX 5 PLUS DC
 http://192.168.1.206:5004/auto/v20.1/live/lescobar/lescobar/8619.ts
 #EXTINF:-1, PBS KIDS
 http://192.168.1.206:5004/auto/v26.3/live/lescobar/lescobar/8617.ts
@@ -29,7 +29,7 @@ http://192.168.1.206:5004/auto/v54.1/live/lescobar/lescobar/8618.ts
 http://192.168.1.206:5004/auto/v44.1/live/lescobar/lescobar/8602.ts
 #EXTINF:-1, CHARGE! HD
 http://192.168.1.206:5004/auto/v54.1/live/lescobar/lescobar/8594.ts
-#EXTINF:-1, ION 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Ion_Television_2013.png",ION 
 http://192.168.1.206:5004/auto/v66.1/live/lescobar/lescobar/817.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
