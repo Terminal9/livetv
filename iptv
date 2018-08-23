@@ -12,7 +12,7 @@ http://192.168.1.152:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
 #EXTINF:-1, FOX 5 DC 
 http://192.168.1.152:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
 #EXTINF:-1, METV
-http://192.168.1.152:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
+http://192.168.1.206:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
 #EXTINF:-1, ABC 7 HD
 http://192.168.1.152:5004/auto/v7.1/live/lescobar/lescobar/824.ts
 #EXTINF:-1, CBS 9
