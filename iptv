@@ -3,8 +3,8 @@
 http://192.168.1.206:5004/auto/v2.1/live/lescobar/lescobar/17619.ts
 #EXTINF:-1, LAFF
 http://192.168.1.206:5004/auto/v2.2/live/lescobar/lescobar/8599.ts
-#EXTINF:-1, BOUNCE
-http://192.168.1.206:5004/auto/v2.3/live/lescobar/lescobar/823.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/830073525440507904/ea6bt4Sy_400x400.jpg",BOUNCE TV
+http://192.168.1.206:5004/auto/v14.4/live/lescobar/lescobar/823.ts
 #EXTINF:-1, ESCAPE
 http://192.168.1.206:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
@@ -43,3 +43,5 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 http://video.oct.dc.gov/out/u/96_4.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="USA",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC
+http://vapi.vaders.tv/play/2455.m3u8?token=eyJ1c2VybmFtZSI6ImRlbW8wMSIsInBhc3N3b3JkIjoiMTIzNDU2In0=
