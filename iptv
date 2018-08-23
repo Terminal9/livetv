@@ -29,7 +29,7 @@ http://192.168.1.206:5004/auto/v54.1/live/lescobar/lescobar/8618.ts
 http://192.168.1.206:5004/auto/v44.1/live/lescobar/lescobar/8602.ts
 #EXTINF:-1, CHARGE! HD
 http://192.168.1.206:5004/auto/v54.1/live/lescobar/lescobar/8594.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Ion_Television_2013.png",ION 
+#EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE 
 http://192.168.1.206:5004/auto/v66.1/live/lescobar/lescobar/817.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
