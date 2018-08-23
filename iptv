@@ -9,7 +9,7 @@ http://192.168.1.206:5004/auto/v14.4/live/lescobar/lescobar/823.ts
 http://192.168.1.206:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
 http://192.168.1.206:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",group-title="USA LOCAL",Fox 5 News (Washington DC)
 http://192.168.1.206:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
 http://192.168.1.206:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
