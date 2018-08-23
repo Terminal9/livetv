@@ -9,7 +9,7 @@ http://192.168.1.206:5004/auto/v2.3/live/lescobar/lescobar/823.ts
 http://192.168.1.206:5004/auto/v2.4/live/lescobar/lescobar/8605.ts
 #EXTINF:-1, NBC 4 HD
 http://192.168.1.206:5004/auto/v4.1/live/lescobar/lescobar/8620.ts
-#EXTINF:-1, FOX 5 DC 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
 http://192.168.1.206:5004/auto/v5.1/live/lescobar/lescobar/8603.ts
 #EXTINF:-1, METV
 http://192.168.1.206:5004/auto/v5.3/live/lescobar/lescobar/8616.ts
