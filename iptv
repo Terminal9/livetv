@@ -45,3 +45,5 @@ http://video.oct.dc.gov/out/u/96_4.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA LOCAL",NBC 4 News (Washington DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png" group-title="USA",Oprah Winfrey Network
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
